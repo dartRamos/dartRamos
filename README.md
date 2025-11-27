@@ -82,6 +82,3 @@ I'm a passionate software engineer with hands-on experience building and deployi
 - LinkedIn: [linkedin.com/in/d-alessandro-ramos](https://linkedin.com/in/d-alessandro-ramos)  
 
 ---
-
-### ⚡ Fun Fact
-I love combining tech with creativity — from building real-time apps to running interactive Twitch streams with 60K+ followers.
